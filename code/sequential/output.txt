@@ -1,0 +1,3666 @@
+cadenas_seq.txtCollection:
+MVTRR
+LJPTN
+NFWZ
+FJMA
+ADRRW
+OFSBC
+UVQH
+FBSA
+XWPQ
+ACEHC
+ZVFRK
+LNOZ
+KPQP
+RJXKI
+ZYXAC
+HHKIC
+COEND
+OMFGD
+DWFC
+PXIQV
+IOOOB
+PLEQ
+WPHAP
+NADQ
+DCNVW
+TXJB
+YPPPH
+UXNS
+USGDH
+IXQM
+FJXJ
+VUDJS
+YIBY
+BMWSI
+YOYGY
+YMZEV
+PZVJE
+EBEO
+FUFTS
+DIXTI
+UYTD
+CGDE
+HTAC
+OHORD
+QKVW
+SGSP
+OQMSB
+AGUWN
+YQXNZ
+GDGWP
+TRWBL
+SADE
+GUUM
+QCDRU
+ETOKY
+HOAC
+WDVM
+XRDR
+XLMND
+TUKW
+QBHC
+ARZOW
+KYHID
+QSCDX
+JMOW
+RXSJY
+LDBEF
+ARCBY
+ECDY
+GXXP
+LOREL
+NMPAP
+FWKHO
+KMCOQ
+NWNK
+EWHSQ
+GBBUQ
+LJJIV
+WMDK
+TBXI
+GMLE
+UUKW
+IBXUB
+MENME
+ATDRM
+DIAJX
+OGHIQ
+MZHL
+IHJO
+VSUY
+YPAY
+LYEI
+UOTE
+ZRIIC
+SKPG
+KBBI
+ZZRZ
+CXAML
+DFYKG
+UOWZObjective:
+WLRBB
+X: WLRBB
+, m=6
+Y: MVTRR
+, n=6
+Y: M, X:W
+Y: V, X:W
+Y: T, X:W
+Y: R, X:W
+Y: R, X:W
+Y: M, X:L
+Y: V, X:L
+Y: T, X:L
+Y: R, X:L
+Y: R, X:L
+Y: M, X:R
+Y: V, X:R
+Y: T, X:R
+Y: R, X:R
+Y: R, X:R
+Y: M, X:B
+Y: V, X:B
+Y: T, X:B
+Y: R, X:B
+Y: R, X:B
+Y: M, X:B
+Y: V, X:B
+Y: T, X:B
+Y: R, X:B
+Y: R, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: LJPTN
+, n=6
+Y: L, X:W
+Y: J, X:W
+Y: P, X:W
+Y: T, X:W
+Y: N, X:W
+Y: L, X:L
+Y: J, X:L
+Y: P, X:L
+Y: T, X:L
+Y: N, X:L
+Y: L, X:R
+Y: J, X:R
+Y: P, X:R
+Y: T, X:R
+Y: N, X:R
+Y: L, X:B
+Y: J, X:B
+Y: P, X:B
+Y: T, X:B
+Y: N, X:B
+Y: L, X:B
+Y: J, X:B
+Y: P, X:B
+Y: T, X:B
+Y: N, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+Cadena: L
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: NFWZ
+, n=5
+Y: N, X:W
+Y: F, X:W
+Y: W, X:W
+Y: Z, X:W
+Y: N, X:L
+Y: F, X:L
+Y: W, X:L
+Y: Z, X:L
+Y: N, X:R
+Y: F, X:R
+Y: W, X:R
+Y: Z, X:R
+Y: N, X:B
+Y: F, X:B
+Y: W, X:B
+Y: Z, X:B
+Y: N, X:B
+Y: F, X:B
+Y: W, X:B
+Y: Z, X:B
+0   0   0   0   0   
+0   0   0   1   1   
+0   0   0   1   1   
+0   0   0   1   1   
+0   0   0   1   1   
+0   0   0   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: FJMA
+, n=5
+Y: F, X:W
+Y: J, X:W
+Y: M, X:W
+Y: A, X:W
+Y: F, X:L
+Y: J, X:L
+Y: M, X:L
+Y: A, X:L
+Y: F, X:R
+Y: J, X:R
+Y: M, X:R
+Y: A, X:R
+Y: F, X:B
+Y: J, X:B
+Y: M, X:B
+Y: A, X:B
+Y: F, X:B
+Y: J, X:B
+Y: M, X:B
+Y: A, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: ADRRW
+, n=6
+Y: A, X:W
+Y: D, X:W
+Y: R, X:W
+Y: R, X:W
+Y: W, X:W
+Y: A, X:L
+Y: D, X:L
+Y: R, X:L
+Y: R, X:L
+Y: W, X:L
+Y: A, X:R
+Y: D, X:R
+Y: R, X:R
+Y: R, X:R
+Y: W, X:R
+Y: A, X:B
+Y: D, X:B
+Y: R, X:B
+Y: R, X:B
+Y: W, X:B
+Y: A, X:B
+Y: D, X:B
+Y: R, X:B
+Y: R, X:B
+Y: W, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+0   0   0   1   1   1   
+0   0   0   1   1   1   
+0   0   0   1   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: OFSBC
+, n=6
+Y: O, X:W
+Y: F, X:W
+Y: S, X:W
+Y: B, X:W
+Y: C, X:W
+Y: O, X:L
+Y: F, X:L
+Y: S, X:L
+Y: B, X:L
+Y: C, X:L
+Y: O, X:R
+Y: F, X:R
+Y: S, X:R
+Y: B, X:R
+Y: C, X:R
+Y: O, X:B
+Y: F, X:B
+Y: S, X:B
+Y: B, X:B
+Y: C, X:B
+Y: O, X:B
+Y: F, X:B
+Y: S, X:B
+Y: B, X:B
+Y: C, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: UVQH
+, n=5
+Y: U, X:W
+Y: V, X:W
+Y: Q, X:W
+Y: H, X:W
+Y: U, X:L
+Y: V, X:L
+Y: Q, X:L
+Y: H, X:L
+Y: U, X:R
+Y: V, X:R
+Y: Q, X:R
+Y: H, X:R
+Y: U, X:B
+Y: V, X:B
+Y: Q, X:B
+Y: H, X:B
+Y: U, X:B
+Y: V, X:B
+Y: Q, X:B
+Y: H, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: FBSA
+, n=5
+Y: F, X:W
+Y: B, X:W
+Y: S, X:W
+Y: A, X:W
+Y: F, X:L
+Y: B, X:L
+Y: S, X:L
+Y: A, X:L
+Y: F, X:R
+Y: B, X:R
+Y: S, X:R
+Y: A, X:R
+Y: F, X:B
+Y: B, X:B
+Y: S, X:B
+Y: A, X:B
+Y: F, X:B
+Y: B, X:B
+Y: S, X:B
+Y: A, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   1   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: XWPQ
+, n=5
+Y: X, X:W
+Y: W, X:W
+Y: P, X:W
+Y: Q, X:W
+Y: X, X:L
+Y: W, X:L
+Y: P, X:L
+Y: Q, X:L
+Y: X, X:R
+Y: W, X:R
+Y: P, X:R
+Y: Q, X:R
+Y: X, X:B
+Y: W, X:B
+Y: P, X:B
+Y: Q, X:B
+Y: X, X:B
+Y: W, X:B
+Y: P, X:B
+Y: Q, X:B
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: ACEHC
+, n=6
+Y: A, X:W
+Y: C, X:W
+Y: E, X:W
+Y: H, X:W
+Y: C, X:W
+Y: A, X:L
+Y: C, X:L
+Y: E, X:L
+Y: H, X:L
+Y: C, X:L
+Y: A, X:R
+Y: C, X:R
+Y: E, X:R
+Y: H, X:R
+Y: C, X:R
+Y: A, X:B
+Y: C, X:B
+Y: E, X:B
+Y: H, X:B
+Y: C, X:B
+Y: A, X:B
+Y: C, X:B
+Y: E, X:B
+Y: H, X:B
+Y: C, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: ZVFRK
+, n=6
+Y: Z, X:W
+Y: V, X:W
+Y: F, X:W
+Y: R, X:W
+Y: K, X:W
+Y: Z, X:L
+Y: V, X:L
+Y: F, X:L
+Y: R, X:L
+Y: K, X:L
+Y: Z, X:R
+Y: V, X:R
+Y: F, X:R
+Y: R, X:R
+Y: K, X:R
+Y: Z, X:B
+Y: V, X:B
+Y: F, X:B
+Y: R, X:B
+Y: K, X:B
+Y: Z, X:B
+Y: V, X:B
+Y: F, X:B
+Y: R, X:B
+Y: K, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: LNOZ
+, n=5
+Y: L, X:W
+Y: N, X:W
+Y: O, X:W
+Y: Z, X:W
+Y: L, X:L
+Y: N, X:L
+Y: O, X:L
+Y: Z, X:L
+Y: L, X:R
+Y: N, X:R
+Y: O, X:R
+Y: Z, X:R
+Y: L, X:B
+Y: N, X:B
+Y: O, X:B
+Y: Z, X:B
+Y: L, X:B
+Y: N, X:B
+Y: O, X:B
+Y: Z, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+Cadena: L
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: KPQP
+, n=5
+Y: K, X:W
+Y: P, X:W
+Y: Q, X:W
+Y: P, X:W
+Y: K, X:L
+Y: P, X:L
+Y: Q, X:L
+Y: P, X:L
+Y: K, X:R
+Y: P, X:R
+Y: Q, X:R
+Y: P, X:R
+Y: K, X:B
+Y: P, X:B
+Y: Q, X:B
+Y: P, X:B
+Y: K, X:B
+Y: P, X:B
+Y: Q, X:B
+Y: P, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: RJXKI
+, n=6
+Y: R, X:W
+Y: J, X:W
+Y: X, X:W
+Y: K, X:W
+Y: I, X:W
+Y: R, X:L
+Y: J, X:L
+Y: X, X:L
+Y: K, X:L
+Y: I, X:L
+Y: R, X:R
+Y: J, X:R
+Y: X, X:R
+Y: K, X:R
+Y: I, X:R
+Y: R, X:B
+Y: J, X:B
+Y: X, X:B
+Y: K, X:B
+Y: I, X:B
+Y: R, X:B
+Y: J, X:B
+Y: X, X:B
+Y: K, X:B
+Y: I, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: ZYXAC
+, n=6
+Y: Z, X:W
+Y: Y, X:W
+Y: X, X:W
+Y: A, X:W
+Y: C, X:W
+Y: Z, X:L
+Y: Y, X:L
+Y: X, X:L
+Y: A, X:L
+Y: C, X:L
+Y: Z, X:R
+Y: Y, X:R
+Y: X, X:R
+Y: A, X:R
+Y: C, X:R
+Y: Z, X:B
+Y: Y, X:B
+Y: X, X:B
+Y: A, X:B
+Y: C, X:B
+Y: Z, X:B
+Y: Y, X:B
+Y: X, X:B
+Y: A, X:B
+Y: C, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: HHKIC
+, n=6
+Y: H, X:W
+Y: H, X:W
+Y: K, X:W
+Y: I, X:W
+Y: C, X:W
+Y: H, X:L
+Y: H, X:L
+Y: K, X:L
+Y: I, X:L
+Y: C, X:L
+Y: H, X:R
+Y: H, X:R
+Y: K, X:R
+Y: I, X:R
+Y: C, X:R
+Y: H, X:B
+Y: H, X:B
+Y: K, X:B
+Y: I, X:B
+Y: C, X:B
+Y: H, X:B
+Y: H, X:B
+Y: K, X:B
+Y: I, X:B
+Y: C, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: COEND
+, n=6
+Y: C, X:W
+Y: O, X:W
+Y: E, X:W
+Y: N, X:W
+Y: D, X:W
+Y: C, X:L
+Y: O, X:L
+Y: E, X:L
+Y: N, X:L
+Y: D, X:L
+Y: C, X:R
+Y: O, X:R
+Y: E, X:R
+Y: N, X:R
+Y: D, X:R
+Y: C, X:B
+Y: O, X:B
+Y: E, X:B
+Y: N, X:B
+Y: D, X:B
+Y: C, X:B
+Y: O, X:B
+Y: E, X:B
+Y: N, X:B
+Y: D, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: OMFGD
+, n=6
+Y: O, X:W
+Y: M, X:W
+Y: F, X:W
+Y: G, X:W
+Y: D, X:W
+Y: O, X:L
+Y: M, X:L
+Y: F, X:L
+Y: G, X:L
+Y: D, X:L
+Y: O, X:R
+Y: M, X:R
+Y: F, X:R
+Y: G, X:R
+Y: D, X:R
+Y: O, X:B
+Y: M, X:B
+Y: F, X:B
+Y: G, X:B
+Y: D, X:B
+Y: O, X:B
+Y: M, X:B
+Y: F, X:B
+Y: G, X:B
+Y: D, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: DWFC
+, n=5
+Y: D, X:W
+Y: W, X:W
+Y: F, X:W
+Y: C, X:W
+Y: D, X:L
+Y: W, X:L
+Y: F, X:L
+Y: C, X:L
+Y: D, X:R
+Y: W, X:R
+Y: F, X:R
+Y: C, X:R
+Y: D, X:B
+Y: W, X:B
+Y: F, X:B
+Y: C, X:B
+Y: D, X:B
+Y: W, X:B
+Y: F, X:B
+Y: C, X:B
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: PXIQV
+, n=6
+Y: P, X:W
+Y: X, X:W
+Y: I, X:W
+Y: Q, X:W
+Y: V, X:W
+Y: P, X:L
+Y: X, X:L
+Y: I, X:L
+Y: Q, X:L
+Y: V, X:L
+Y: P, X:R
+Y: X, X:R
+Y: I, X:R
+Y: Q, X:R
+Y: V, X:R
+Y: P, X:B
+Y: X, X:B
+Y: I, X:B
+Y: Q, X:B
+Y: V, X:B
+Y: P, X:B
+Y: X, X:B
+Y: I, X:B
+Y: Q, X:B
+Y: V, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: IOOOB
+, n=6
+Y: I, X:W
+Y: O, X:W
+Y: O, X:W
+Y: O, X:W
+Y: B, X:W
+Y: I, X:L
+Y: O, X:L
+Y: O, X:L
+Y: O, X:L
+Y: B, X:L
+Y: I, X:R
+Y: O, X:R
+Y: O, X:R
+Y: O, X:R
+Y: B, X:R
+Y: I, X:B
+Y: O, X:B
+Y: O, X:B
+Y: O, X:B
+Y: B, X:B
+Y: I, X:B
+Y: O, X:B
+Y: O, X:B
+Y: O, X:B
+Y: B, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: PLEQ
+, n=5
+Y: P, X:W
+Y: L, X:W
+Y: E, X:W
+Y: Q, X:W
+Y: P, X:L
+Y: L, X:L
+Y: E, X:L
+Y: Q, X:L
+Y: P, X:R
+Y: L, X:R
+Y: E, X:R
+Y: Q, X:R
+Y: P, X:B
+Y: L, X:B
+Y: E, X:B
+Y: Q, X:B
+Y: P, X:B
+Y: L, X:B
+Y: E, X:B
+Y: Q, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+Cadena: L
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: WPHAP
+, n=6
+Y: W, X:W
+Y: P, X:W
+Y: H, X:W
+Y: A, X:W
+Y: P, X:W
+Y: W, X:L
+Y: P, X:L
+Y: H, X:L
+Y: A, X:L
+Y: P, X:L
+Y: W, X:R
+Y: P, X:R
+Y: H, X:R
+Y: A, X:R
+Y: P, X:R
+Y: W, X:B
+Y: P, X:B
+Y: H, X:B
+Y: A, X:B
+Y: P, X:B
+Y: W, X:B
+Y: P, X:B
+Y: H, X:B
+Y: A, X:B
+Y: P, X:B
+0   0   0   0   0   0   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: NADQ
+, n=5
+Y: N, X:W
+Y: A, X:W
+Y: D, X:W
+Y: Q, X:W
+Y: N, X:L
+Y: A, X:L
+Y: D, X:L
+Y: Q, X:L
+Y: N, X:R
+Y: A, X:R
+Y: D, X:R
+Y: Q, X:R
+Y: N, X:B
+Y: A, X:B
+Y: D, X:B
+Y: Q, X:B
+Y: N, X:B
+Y: A, X:B
+Y: D, X:B
+Y: Q, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: DCNVW
+, n=6
+Y: D, X:W
+Y: C, X:W
+Y: N, X:W
+Y: V, X:W
+Y: W, X:W
+Y: D, X:L
+Y: C, X:L
+Y: N, X:L
+Y: V, X:L
+Y: W, X:L
+Y: D, X:R
+Y: C, X:R
+Y: N, X:R
+Y: V, X:R
+Y: W, X:R
+Y: D, X:B
+Y: C, X:B
+Y: N, X:B
+Y: V, X:B
+Y: W, X:B
+Y: D, X:B
+Y: C, X:B
+Y: N, X:B
+Y: V, X:B
+Y: W, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: TXJB
+, n=5
+Y: T, X:W
+Y: X, X:W
+Y: J, X:W
+Y: B, X:W
+Y: T, X:L
+Y: X, X:L
+Y: J, X:L
+Y: B, X:L
+Y: T, X:R
+Y: X, X:R
+Y: J, X:R
+Y: B, X:R
+Y: T, X:B
+Y: X, X:B
+Y: J, X:B
+Y: B, X:B
+Y: T, X:B
+Y: X, X:B
+Y: J, X:B
+Y: B, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   1   
+0   0   0   0   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: YPPPH
+, n=6
+Y: Y, X:W
+Y: P, X:W
+Y: P, X:W
+Y: P, X:W
+Y: H, X:W
+Y: Y, X:L
+Y: P, X:L
+Y: P, X:L
+Y: P, X:L
+Y: H, X:L
+Y: Y, X:R
+Y: P, X:R
+Y: P, X:R
+Y: P, X:R
+Y: H, X:R
+Y: Y, X:B
+Y: P, X:B
+Y: P, X:B
+Y: P, X:B
+Y: H, X:B
+Y: Y, X:B
+Y: P, X:B
+Y: P, X:B
+Y: P, X:B
+Y: H, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: UXNS
+, n=5
+Y: U, X:W
+Y: X, X:W
+Y: N, X:W
+Y: S, X:W
+Y: U, X:L
+Y: X, X:L
+Y: N, X:L
+Y: S, X:L
+Y: U, X:R
+Y: X, X:R
+Y: N, X:R
+Y: S, X:R
+Y: U, X:B
+Y: X, X:B
+Y: N, X:B
+Y: S, X:B
+Y: U, X:B
+Y: X, X:B
+Y: N, X:B
+Y: S, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: USGDH
+, n=6
+Y: U, X:W
+Y: S, X:W
+Y: G, X:W
+Y: D, X:W
+Y: H, X:W
+Y: U, X:L
+Y: S, X:L
+Y: G, X:L
+Y: D, X:L
+Y: H, X:L
+Y: U, X:R
+Y: S, X:R
+Y: G, X:R
+Y: D, X:R
+Y: H, X:R
+Y: U, X:B
+Y: S, X:B
+Y: G, X:B
+Y: D, X:B
+Y: H, X:B
+Y: U, X:B
+Y: S, X:B
+Y: G, X:B
+Y: D, X:B
+Y: H, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: IXQM
+, n=5
+Y: I, X:W
+Y: X, X:W
+Y: Q, X:W
+Y: M, X:W
+Y: I, X:L
+Y: X, X:L
+Y: Q, X:L
+Y: M, X:L
+Y: I, X:R
+Y: X, X:R
+Y: Q, X:R
+Y: M, X:R
+Y: I, X:B
+Y: X, X:B
+Y: Q, X:B
+Y: M, X:B
+Y: I, X:B
+Y: X, X:B
+Y: Q, X:B
+Y: M, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: FJXJ
+, n=5
+Y: F, X:W
+Y: J, X:W
+Y: X, X:W
+Y: J, X:W
+Y: F, X:L
+Y: J, X:L
+Y: X, X:L
+Y: J, X:L
+Y: F, X:R
+Y: J, X:R
+Y: X, X:R
+Y: J, X:R
+Y: F, X:B
+Y: J, X:B
+Y: X, X:B
+Y: J, X:B
+Y: F, X:B
+Y: J, X:B
+Y: X, X:B
+Y: J, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: VUDJS
+, n=6
+Y: V, X:W
+Y: U, X:W
+Y: D, X:W
+Y: J, X:W
+Y: S, X:W
+Y: V, X:L
+Y: U, X:L
+Y: D, X:L
+Y: J, X:L
+Y: S, X:L
+Y: V, X:R
+Y: U, X:R
+Y: D, X:R
+Y: J, X:R
+Y: S, X:R
+Y: V, X:B
+Y: U, X:B
+Y: D, X:B
+Y: J, X:B
+Y: S, X:B
+Y: V, X:B
+Y: U, X:B
+Y: D, X:B
+Y: J, X:B
+Y: S, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: YIBY
+, n=5
+Y: Y, X:W
+Y: I, X:W
+Y: B, X:W
+Y: Y, X:W
+Y: Y, X:L
+Y: I, X:L
+Y: B, X:L
+Y: Y, X:L
+Y: Y, X:R
+Y: I, X:R
+Y: B, X:R
+Y: Y, X:R
+Y: Y, X:B
+Y: I, X:B
+Y: B, X:B
+Y: Y, X:B
+Y: Y, X:B
+Y: I, X:B
+Y: B, X:B
+Y: Y, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   1   1   
+0   0   0   1   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: BMWSI
+, n=6
+Y: B, X:W
+Y: M, X:W
+Y: W, X:W
+Y: S, X:W
+Y: I, X:W
+Y: B, X:L
+Y: M, X:L
+Y: W, X:L
+Y: S, X:L
+Y: I, X:L
+Y: B, X:R
+Y: M, X:R
+Y: W, X:R
+Y: S, X:R
+Y: I, X:R
+Y: B, X:B
+Y: M, X:B
+Y: W, X:B
+Y: S, X:B
+Y: I, X:B
+Y: B, X:B
+Y: M, X:B
+Y: W, X:B
+Y: S, X:B
+Y: I, X:B
+0   0   0   0   0   0   
+0   0   0   1   1   1   
+0   0   0   1   1   1   
+0   0   0   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: YOYGY
+, n=6
+Y: Y, X:W
+Y: O, X:W
+Y: Y, X:W
+Y: G, X:W
+Y: Y, X:W
+Y: Y, X:L
+Y: O, X:L
+Y: Y, X:L
+Y: G, X:L
+Y: Y, X:L
+Y: Y, X:R
+Y: O, X:R
+Y: Y, X:R
+Y: G, X:R
+Y: Y, X:R
+Y: Y, X:B
+Y: O, X:B
+Y: Y, X:B
+Y: G, X:B
+Y: Y, X:B
+Y: Y, X:B
+Y: O, X:B
+Y: Y, X:B
+Y: G, X:B
+Y: Y, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: YMZEV
+, n=6
+Y: Y, X:W
+Y: M, X:W
+Y: Z, X:W
+Y: E, X:W
+Y: V, X:W
+Y: Y, X:L
+Y: M, X:L
+Y: Z, X:L
+Y: E, X:L
+Y: V, X:L
+Y: Y, X:R
+Y: M, X:R
+Y: Z, X:R
+Y: E, X:R
+Y: V, X:R
+Y: Y, X:B
+Y: M, X:B
+Y: Z, X:B
+Y: E, X:B
+Y: V, X:B
+Y: Y, X:B
+Y: M, X:B
+Y: Z, X:B
+Y: E, X:B
+Y: V, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: PZVJE
+, n=6
+Y: P, X:W
+Y: Z, X:W
+Y: V, X:W
+Y: J, X:W
+Y: E, X:W
+Y: P, X:L
+Y: Z, X:L
+Y: V, X:L
+Y: J, X:L
+Y: E, X:L
+Y: P, X:R
+Y: Z, X:R
+Y: V, X:R
+Y: J, X:R
+Y: E, X:R
+Y: P, X:B
+Y: Z, X:B
+Y: V, X:B
+Y: J, X:B
+Y: E, X:B
+Y: P, X:B
+Y: Z, X:B
+Y: V, X:B
+Y: J, X:B
+Y: E, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: EBEO
+, n=5
+Y: E, X:W
+Y: B, X:W
+Y: E, X:W
+Y: O, X:W
+Y: E, X:L
+Y: B, X:L
+Y: E, X:L
+Y: O, X:L
+Y: E, X:R
+Y: B, X:R
+Y: E, X:R
+Y: O, X:R
+Y: E, X:B
+Y: B, X:B
+Y: E, X:B
+Y: O, X:B
+Y: E, X:B
+Y: B, X:B
+Y: E, X:B
+Y: O, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   1   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: FUFTS
+, n=6
+Y: F, X:W
+Y: U, X:W
+Y: F, X:W
+Y: T, X:W
+Y: S, X:W
+Y: F, X:L
+Y: U, X:L
+Y: F, X:L
+Y: T, X:L
+Y: S, X:L
+Y: F, X:R
+Y: U, X:R
+Y: F, X:R
+Y: T, X:R
+Y: S, X:R
+Y: F, X:B
+Y: U, X:B
+Y: F, X:B
+Y: T, X:B
+Y: S, X:B
+Y: F, X:B
+Y: U, X:B
+Y: F, X:B
+Y: T, X:B
+Y: S, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: DIXTI
+, n=6
+Y: D, X:W
+Y: I, X:W
+Y: X, X:W
+Y: T, X:W
+Y: I, X:W
+Y: D, X:L
+Y: I, X:L
+Y: X, X:L
+Y: T, X:L
+Y: I, X:L
+Y: D, X:R
+Y: I, X:R
+Y: X, X:R
+Y: T, X:R
+Y: I, X:R
+Y: D, X:B
+Y: I, X:B
+Y: X, X:B
+Y: T, X:B
+Y: I, X:B
+Y: D, X:B
+Y: I, X:B
+Y: X, X:B
+Y: T, X:B
+Y: I, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: UYTD
+, n=5
+Y: U, X:W
+Y: Y, X:W
+Y: T, X:W
+Y: D, X:W
+Y: U, X:L
+Y: Y, X:L
+Y: T, X:L
+Y: D, X:L
+Y: U, X:R
+Y: Y, X:R
+Y: T, X:R
+Y: D, X:R
+Y: U, X:B
+Y: Y, X:B
+Y: T, X:B
+Y: D, X:B
+Y: U, X:B
+Y: Y, X:B
+Y: T, X:B
+Y: D, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: CGDE
+, n=5
+Y: C, X:W
+Y: G, X:W
+Y: D, X:W
+Y: E, X:W
+Y: C, X:L
+Y: G, X:L
+Y: D, X:L
+Y: E, X:L
+Y: C, X:R
+Y: G, X:R
+Y: D, X:R
+Y: E, X:R
+Y: C, X:B
+Y: G, X:B
+Y: D, X:B
+Y: E, X:B
+Y: C, X:B
+Y: G, X:B
+Y: D, X:B
+Y: E, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: HTAC
+, n=5
+Y: H, X:W
+Y: T, X:W
+Y: A, X:W
+Y: C, X:W
+Y: H, X:L
+Y: T, X:L
+Y: A, X:L
+Y: C, X:L
+Y: H, X:R
+Y: T, X:R
+Y: A, X:R
+Y: C, X:R
+Y: H, X:B
+Y: T, X:B
+Y: A, X:B
+Y: C, X:B
+Y: H, X:B
+Y: T, X:B
+Y: A, X:B
+Y: C, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: OHORD
+, n=6
+Y: O, X:W
+Y: H, X:W
+Y: O, X:W
+Y: R, X:W
+Y: D, X:W
+Y: O, X:L
+Y: H, X:L
+Y: O, X:L
+Y: R, X:L
+Y: D, X:L
+Y: O, X:R
+Y: H, X:R
+Y: O, X:R
+Y: R, X:R
+Y: D, X:R
+Y: O, X:B
+Y: H, X:B
+Y: O, X:B
+Y: R, X:B
+Y: D, X:B
+Y: O, X:B
+Y: H, X:B
+Y: O, X:B
+Y: R, X:B
+Y: D, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: QKVW
+, n=5
+Y: Q, X:W
+Y: K, X:W
+Y: V, X:W
+Y: W, X:W
+Y: Q, X:L
+Y: K, X:L
+Y: V, X:L
+Y: W, X:L
+Y: Q, X:R
+Y: K, X:R
+Y: V, X:R
+Y: W, X:R
+Y: Q, X:B
+Y: K, X:B
+Y: V, X:B
+Y: W, X:B
+Y: Q, X:B
+Y: K, X:B
+Y: V, X:B
+Y: W, X:B
+0   0   0   0   0   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: SGSP
+, n=5
+Y: S, X:W
+Y: G, X:W
+Y: S, X:W
+Y: P, X:W
+Y: S, X:L
+Y: G, X:L
+Y: S, X:L
+Y: P, X:L
+Y: S, X:R
+Y: G, X:R
+Y: S, X:R
+Y: P, X:R
+Y: S, X:B
+Y: G, X:B
+Y: S, X:B
+Y: P, X:B
+Y: S, X:B
+Y: G, X:B
+Y: S, X:B
+Y: P, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: OQMSB
+, n=6
+Y: O, X:W
+Y: Q, X:W
+Y: M, X:W
+Y: S, X:W
+Y: B, X:W
+Y: O, X:L
+Y: Q, X:L
+Y: M, X:L
+Y: S, X:L
+Y: B, X:L
+Y: O, X:R
+Y: Q, X:R
+Y: M, X:R
+Y: S, X:R
+Y: B, X:R
+Y: O, X:B
+Y: Q, X:B
+Y: M, X:B
+Y: S, X:B
+Y: B, X:B
+Y: O, X:B
+Y: Q, X:B
+Y: M, X:B
+Y: S, X:B
+Y: B, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: AGUWN
+, n=6
+Y: A, X:W
+Y: G, X:W
+Y: U, X:W
+Y: W, X:W
+Y: N, X:W
+Y: A, X:L
+Y: G, X:L
+Y: U, X:L
+Y: W, X:L
+Y: N, X:L
+Y: A, X:R
+Y: G, X:R
+Y: U, X:R
+Y: W, X:R
+Y: N, X:R
+Y: A, X:B
+Y: G, X:B
+Y: U, X:B
+Y: W, X:B
+Y: N, X:B
+Y: A, X:B
+Y: G, X:B
+Y: U, X:B
+Y: W, X:B
+Y: N, X:B
+0   0   0   0   0   0   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: YQXNZ
+, n=6
+Y: Y, X:W
+Y: Q, X:W
+Y: X, X:W
+Y: N, X:W
+Y: Z, X:W
+Y: Y, X:L
+Y: Q, X:L
+Y: X, X:L
+Y: N, X:L
+Y: Z, X:L
+Y: Y, X:R
+Y: Q, X:R
+Y: X, X:R
+Y: N, X:R
+Y: Z, X:R
+Y: Y, X:B
+Y: Q, X:B
+Y: X, X:B
+Y: N, X:B
+Y: Z, X:B
+Y: Y, X:B
+Y: Q, X:B
+Y: X, X:B
+Y: N, X:B
+Y: Z, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: GDGWP
+, n=6
+Y: G, X:W
+Y: D, X:W
+Y: G, X:W
+Y: W, X:W
+Y: P, X:W
+Y: G, X:L
+Y: D, X:L
+Y: G, X:L
+Y: W, X:L
+Y: P, X:L
+Y: G, X:R
+Y: D, X:R
+Y: G, X:R
+Y: W, X:R
+Y: P, X:R
+Y: G, X:B
+Y: D, X:B
+Y: G, X:B
+Y: W, X:B
+Y: P, X:B
+Y: G, X:B
+Y: D, X:B
+Y: G, X:B
+Y: W, X:B
+Y: P, X:B
+0   0   0   0   0   0   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: TRWBL
+, n=6
+Y: T, X:W
+Y: R, X:W
+Y: W, X:W
+Y: B, X:W
+Y: L, X:W
+Y: T, X:L
+Y: R, X:L
+Y: W, X:L
+Y: B, X:L
+Y: L, X:L
+Y: T, X:R
+Y: R, X:R
+Y: W, X:R
+Y: B, X:R
+Y: L, X:R
+Y: T, X:B
+Y: R, X:B
+Y: W, X:B
+Y: B, X:B
+Y: L, X:B
+Y: T, X:B
+Y: R, X:B
+Y: W, X:B
+Y: B, X:B
+Y: L, X:B
+0   0   0   0   0   0   
+0   0   0   1   1   1   
+0   0   0   1   1   2   
+0   0   1   1   1   2   
+0   0   1   1   2   2   
+0   0   1   1   2   2   
+Cadena: RB
+Yÿ, El nÃºmero de elementos en comÃºn es: 2
+2
+X: WLRBB
+, m=6
+Y: SADE
+, n=5
+Y: S, X:W
+Y: A, X:W
+Y: D, X:W
+Y: E, X:W
+Y: S, X:L
+Y: A, X:L
+Y: D, X:L
+Y: E, X:L
+Y: S, X:R
+Y: A, X:R
+Y: D, X:R
+Y: E, X:R
+Y: S, X:B
+Y: A, X:B
+Y: D, X:B
+Y: E, X:B
+Y: S, X:B
+Y: A, X:B
+Y: D, X:B
+Y: E, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: GUUM
+, n=5
+Y: G, X:W
+Y: U, X:W
+Y: U, X:W
+Y: M, X:W
+Y: G, X:L
+Y: U, X:L
+Y: U, X:L
+Y: M, X:L
+Y: G, X:R
+Y: U, X:R
+Y: U, X:R
+Y: M, X:R
+Y: G, X:B
+Y: U, X:B
+Y: U, X:B
+Y: M, X:B
+Y: G, X:B
+Y: U, X:B
+Y: U, X:B
+Y: M, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: QCDRU
+, n=6
+Y: Q, X:W
+Y: C, X:W
+Y: D, X:W
+Y: R, X:W
+Y: U, X:W
+Y: Q, X:L
+Y: C, X:L
+Y: D, X:L
+Y: R, X:L
+Y: U, X:L
+Y: Q, X:R
+Y: C, X:R
+Y: D, X:R
+Y: R, X:R
+Y: U, X:R
+Y: Q, X:B
+Y: C, X:B
+Y: D, X:B
+Y: R, X:B
+Y: U, X:B
+Y: Q, X:B
+Y: C, X:B
+Y: D, X:B
+Y: R, X:B
+Y: U, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: ETOKY
+, n=6
+Y: E, X:W
+Y: T, X:W
+Y: O, X:W
+Y: K, X:W
+Y: Y, X:W
+Y: E, X:L
+Y: T, X:L
+Y: O, X:L
+Y: K, X:L
+Y: Y, X:L
+Y: E, X:R
+Y: T, X:R
+Y: O, X:R
+Y: K, X:R
+Y: Y, X:R
+Y: E, X:B
+Y: T, X:B
+Y: O, X:B
+Y: K, X:B
+Y: Y, X:B
+Y: E, X:B
+Y: T, X:B
+Y: O, X:B
+Y: K, X:B
+Y: Y, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: HOAC
+, n=5
+Y: H, X:W
+Y: O, X:W
+Y: A, X:W
+Y: C, X:W
+Y: H, X:L
+Y: O, X:L
+Y: A, X:L
+Y: C, X:L
+Y: H, X:R
+Y: O, X:R
+Y: A, X:R
+Y: C, X:R
+Y: H, X:B
+Y: O, X:B
+Y: A, X:B
+Y: C, X:B
+Y: H, X:B
+Y: O, X:B
+Y: A, X:B
+Y: C, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: WDVM
+, n=5
+Y: W, X:W
+Y: D, X:W
+Y: V, X:W
+Y: M, X:W
+Y: W, X:L
+Y: D, X:L
+Y: V, X:L
+Y: M, X:L
+Y: W, X:R
+Y: D, X:R
+Y: V, X:R
+Y: M, X:R
+Y: W, X:B
+Y: D, X:B
+Y: V, X:B
+Y: M, X:B
+Y: W, X:B
+Y: D, X:B
+Y: V, X:B
+Y: M, X:B
+0   0   0   0   0   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: XRDR
+, n=5
+Y: X, X:W
+Y: R, X:W
+Y: D, X:W
+Y: R, X:W
+Y: X, X:L
+Y: R, X:L
+Y: D, X:L
+Y: R, X:L
+Y: X, X:R
+Y: R, X:R
+Y: D, X:R
+Y: R, X:R
+Y: X, X:B
+Y: R, X:B
+Y: D, X:B
+Y: R, X:B
+Y: X, X:B
+Y: R, X:B
+Y: D, X:B
+Y: R, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: XLMND
+, n=6
+Y: X, X:W
+Y: L, X:W
+Y: M, X:W
+Y: N, X:W
+Y: D, X:W
+Y: X, X:L
+Y: L, X:L
+Y: M, X:L
+Y: N, X:L
+Y: D, X:L
+Y: X, X:R
+Y: L, X:R
+Y: M, X:R
+Y: N, X:R
+Y: D, X:R
+Y: X, X:B
+Y: L, X:B
+Y: M, X:B
+Y: N, X:B
+Y: D, X:B
+Y: X, X:B
+Y: L, X:B
+Y: M, X:B
+Y: N, X:B
+Y: D, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+Cadena: L
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: TUKW
+, n=5
+Y: T, X:W
+Y: U, X:W
+Y: K, X:W
+Y: W, X:W
+Y: T, X:L
+Y: U, X:L
+Y: K, X:L
+Y: W, X:L
+Y: T, X:R
+Y: U, X:R
+Y: K, X:R
+Y: W, X:R
+Y: T, X:B
+Y: U, X:B
+Y: K, X:B
+Y: W, X:B
+Y: T, X:B
+Y: U, X:B
+Y: K, X:B
+Y: W, X:B
+0   0   0   0   0   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: QBHC
+, n=5
+Y: Q, X:W
+Y: B, X:W
+Y: H, X:W
+Y: C, X:W
+Y: Q, X:L
+Y: B, X:L
+Y: H, X:L
+Y: C, X:L
+Y: Q, X:R
+Y: B, X:R
+Y: H, X:R
+Y: C, X:R
+Y: Q, X:B
+Y: B, X:B
+Y: H, X:B
+Y: C, X:B
+Y: Q, X:B
+Y: B, X:B
+Y: H, X:B
+Y: C, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   1   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: ARZOW
+, n=6
+Y: A, X:W
+Y: R, X:W
+Y: Z, X:W
+Y: O, X:W
+Y: W, X:W
+Y: A, X:L
+Y: R, X:L
+Y: Z, X:L
+Y: O, X:L
+Y: W, X:L
+Y: A, X:R
+Y: R, X:R
+Y: Z, X:R
+Y: O, X:R
+Y: W, X:R
+Y: A, X:B
+Y: R, X:B
+Y: Z, X:B
+Y: O, X:B
+Y: W, X:B
+Y: A, X:B
+Y: R, X:B
+Y: Z, X:B
+Y: O, X:B
+Y: W, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: KYHID
+, n=6
+Y: K, X:W
+Y: Y, X:W
+Y: H, X:W
+Y: I, X:W
+Y: D, X:W
+Y: K, X:L
+Y: Y, X:L
+Y: H, X:L
+Y: I, X:L
+Y: D, X:L
+Y: K, X:R
+Y: Y, X:R
+Y: H, X:R
+Y: I, X:R
+Y: D, X:R
+Y: K, X:B
+Y: Y, X:B
+Y: H, X:B
+Y: I, X:B
+Y: D, X:B
+Y: K, X:B
+Y: Y, X:B
+Y: H, X:B
+Y: I, X:B
+Y: D, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: QSCDX
+, n=6
+Y: Q, X:W
+Y: S, X:W
+Y: C, X:W
+Y: D, X:W
+Y: X, X:W
+Y: Q, X:L
+Y: S, X:L
+Y: C, X:L
+Y: D, X:L
+Y: X, X:L
+Y: Q, X:R
+Y: S, X:R
+Y: C, X:R
+Y: D, X:R
+Y: X, X:R
+Y: Q, X:B
+Y: S, X:B
+Y: C, X:B
+Y: D, X:B
+Y: X, X:B
+Y: Q, X:B
+Y: S, X:B
+Y: C, X:B
+Y: D, X:B
+Y: X, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: JMOW
+, n=5
+Y: J, X:W
+Y: M, X:W
+Y: O, X:W
+Y: W, X:W
+Y: J, X:L
+Y: M, X:L
+Y: O, X:L
+Y: W, X:L
+Y: J, X:R
+Y: M, X:R
+Y: O, X:R
+Y: W, X:R
+Y: J, X:B
+Y: M, X:B
+Y: O, X:B
+Y: W, X:B
+Y: J, X:B
+Y: M, X:B
+Y: O, X:B
+Y: W, X:B
+0   0   0   0   0   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: RXSJY
+, n=6
+Y: R, X:W
+Y: X, X:W
+Y: S, X:W
+Y: J, X:W
+Y: Y, X:W
+Y: R, X:L
+Y: X, X:L
+Y: S, X:L
+Y: J, X:L
+Y: Y, X:L
+Y: R, X:R
+Y: X, X:R
+Y: S, X:R
+Y: J, X:R
+Y: Y, X:R
+Y: R, X:B
+Y: X, X:B
+Y: S, X:B
+Y: J, X:B
+Y: Y, X:B
+Y: R, X:B
+Y: X, X:B
+Y: S, X:B
+Y: J, X:B
+Y: Y, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: LDBEF
+, n=6
+Y: L, X:W
+Y: D, X:W
+Y: B, X:W
+Y: E, X:W
+Y: F, X:W
+Y: L, X:L
+Y: D, X:L
+Y: B, X:L
+Y: E, X:L
+Y: F, X:L
+Y: L, X:R
+Y: D, X:R
+Y: B, X:R
+Y: E, X:R
+Y: F, X:R
+Y: L, X:B
+Y: D, X:B
+Y: B, X:B
+Y: E, X:B
+Y: F, X:B
+Y: L, X:B
+Y: D, X:B
+Y: B, X:B
+Y: E, X:B
+Y: F, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   2   2   2   
+0   1   1   2   2   2   
+Cadena: LB
+Yÿ, El nÃºmero de elementos en comÃºn es: 2
+2
+X: WLRBB
+, m=6
+Y: ARCBY
+, n=6
+Y: A, X:W
+Y: R, X:W
+Y: C, X:W
+Y: B, X:W
+Y: Y, X:W
+Y: A, X:L
+Y: R, X:L
+Y: C, X:L
+Y: B, X:L
+Y: Y, X:L
+Y: A, X:R
+Y: R, X:R
+Y: C, X:R
+Y: B, X:R
+Y: Y, X:R
+Y: A, X:B
+Y: R, X:B
+Y: C, X:B
+Y: B, X:B
+Y: Y, X:B
+Y: A, X:B
+Y: R, X:B
+Y: C, X:B
+Y: B, X:B
+Y: Y, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   1   1   1   1   
+0   0   1   1   2   2   
+0   0   1   1   2   2   
+Cadena: RB
+Yÿ, El nÃºmero de elementos en comÃºn es: 2
+2
+X: WLRBB
+, m=6
+Y: ECDY
+, n=5
+Y: E, X:W
+Y: C, X:W
+Y: D, X:W
+Y: Y, X:W
+Y: E, X:L
+Y: C, X:L
+Y: D, X:L
+Y: Y, X:L
+Y: E, X:R
+Y: C, X:R
+Y: D, X:R
+Y: Y, X:R
+Y: E, X:B
+Y: C, X:B
+Y: D, X:B
+Y: Y, X:B
+Y: E, X:B
+Y: C, X:B
+Y: D, X:B
+Y: Y, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: GXXP
+, n=5
+Y: G, X:W
+Y: X, X:W
+Y: X, X:W
+Y: P, X:W
+Y: G, X:L
+Y: X, X:L
+Y: X, X:L
+Y: P, X:L
+Y: G, X:R
+Y: X, X:R
+Y: X, X:R
+Y: P, X:R
+Y: G, X:B
+Y: X, X:B
+Y: X, X:B
+Y: P, X:B
+Y: G, X:B
+Y: X, X:B
+Y: X, X:B
+Y: P, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: LOREL
+, n=6
+Y: L, X:W
+Y: O, X:W
+Y: R, X:W
+Y: E, X:W
+Y: L, X:W
+Y: L, X:L
+Y: O, X:L
+Y: R, X:L
+Y: E, X:L
+Y: L, X:L
+Y: L, X:R
+Y: O, X:R
+Y: R, X:R
+Y: E, X:R
+Y: L, X:R
+Y: L, X:B
+Y: O, X:B
+Y: R, X:B
+Y: E, X:B
+Y: L, X:B
+Y: L, X:B
+Y: O, X:B
+Y: R, X:B
+Y: E, X:B
+Y: L, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   1   1   1   1   1   
+0   1   1   2   2   2   
+0   1   1   2   2   2   
+0   1   1   2   2   2   
+Cadena: LR
+Yÿ, El nÃºmero de elementos en comÃºn es: 2
+2
+X: WLRBB
+, m=6
+Y: NMPAP
+, n=6
+Y: N, X:W
+Y: M, X:W
+Y: P, X:W
+Y: A, X:W
+Y: P, X:W
+Y: N, X:L
+Y: M, X:L
+Y: P, X:L
+Y: A, X:L
+Y: P, X:L
+Y: N, X:R
+Y: M, X:R
+Y: P, X:R
+Y: A, X:R
+Y: P, X:R
+Y: N, X:B
+Y: M, X:B
+Y: P, X:B
+Y: A, X:B
+Y: P, X:B
+Y: N, X:B
+Y: M, X:B
+Y: P, X:B
+Y: A, X:B
+Y: P, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: FWKHO
+, n=6
+Y: F, X:W
+Y: W, X:W
+Y: K, X:W
+Y: H, X:W
+Y: O, X:W
+Y: F, X:L
+Y: W, X:L
+Y: K, X:L
+Y: H, X:L
+Y: O, X:L
+Y: F, X:R
+Y: W, X:R
+Y: K, X:R
+Y: H, X:R
+Y: O, X:R
+Y: F, X:B
+Y: W, X:B
+Y: K, X:B
+Y: H, X:B
+Y: O, X:B
+Y: F, X:B
+Y: W, X:B
+Y: K, X:B
+Y: H, X:B
+Y: O, X:B
+0   0   0   0   0   0   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: KMCOQ
+, n=6
+Y: K, X:W
+Y: M, X:W
+Y: C, X:W
+Y: O, X:W
+Y: Q, X:W
+Y: K, X:L
+Y: M, X:L
+Y: C, X:L
+Y: O, X:L
+Y: Q, X:L
+Y: K, X:R
+Y: M, X:R
+Y: C, X:R
+Y: O, X:R
+Y: Q, X:R
+Y: K, X:B
+Y: M, X:B
+Y: C, X:B
+Y: O, X:B
+Y: Q, X:B
+Y: K, X:B
+Y: M, X:B
+Y: C, X:B
+Y: O, X:B
+Y: Q, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: NWNK
+, n=5
+Y: N, X:W
+Y: W, X:W
+Y: N, X:W
+Y: K, X:W
+Y: N, X:L
+Y: W, X:L
+Y: N, X:L
+Y: K, X:L
+Y: N, X:R
+Y: W, X:R
+Y: N, X:R
+Y: K, X:R
+Y: N, X:B
+Y: W, X:B
+Y: N, X:B
+Y: K, X:B
+Y: N, X:B
+Y: W, X:B
+Y: N, X:B
+Y: K, X:B
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+0   0   1   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: EWHSQ
+, n=6
+Y: E, X:W
+Y: W, X:W
+Y: H, X:W
+Y: S, X:W
+Y: Q, X:W
+Y: E, X:L
+Y: W, X:L
+Y: H, X:L
+Y: S, X:L
+Y: Q, X:L
+Y: E, X:R
+Y: W, X:R
+Y: H, X:R
+Y: S, X:R
+Y: Q, X:R
+Y: E, X:B
+Y: W, X:B
+Y: H, X:B
+Y: S, X:B
+Y: Q, X:B
+Y: E, X:B
+Y: W, X:B
+Y: H, X:B
+Y: S, X:B
+Y: Q, X:B
+0   0   0   0   0   0   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: GBBUQ
+, n=6
+Y: G, X:W
+Y: B, X:W
+Y: B, X:W
+Y: U, X:W
+Y: Q, X:W
+Y: G, X:L
+Y: B, X:L
+Y: B, X:L
+Y: U, X:L
+Y: Q, X:L
+Y: G, X:R
+Y: B, X:R
+Y: B, X:R
+Y: U, X:R
+Y: Q, X:R
+Y: G, X:B
+Y: B, X:B
+Y: B, X:B
+Y: U, X:B
+Y: Q, X:B
+Y: G, X:B
+Y: B, X:B
+Y: B, X:B
+Y: U, X:B
+Y: Q, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   1   1   1   1   
+0   0   1   2   2   2   
+Cadena: BB
+Yÿ, El nÃºmero de elementos en comÃºn es: 2
+2
+X: WLRBB
+, m=6
+Y: LJJIV
+, n=6
+Y: L, X:W
+Y: J, X:W
+Y: J, X:W
+Y: I, X:W
+Y: V, X:W
+Y: L, X:L
+Y: J, X:L
+Y: J, X:L
+Y: I, X:L
+Y: V, X:L
+Y: L, X:R
+Y: J, X:R
+Y: J, X:R
+Y: I, X:R
+Y: V, X:R
+Y: L, X:B
+Y: J, X:B
+Y: J, X:B
+Y: I, X:B
+Y: V, X:B
+Y: L, X:B
+Y: J, X:B
+Y: J, X:B
+Y: I, X:B
+Y: V, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+0   1   1   1   1   1   
+Cadena: L
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: WMDK
+, n=5
+Y: W, X:W
+Y: M, X:W
+Y: D, X:W
+Y: K, X:W
+Y: W, X:L
+Y: M, X:L
+Y: D, X:L
+Y: K, X:L
+Y: W, X:R
+Y: M, X:R
+Y: D, X:R
+Y: K, X:R
+Y: W, X:B
+Y: M, X:B
+Y: D, X:B
+Y: K, X:B
+Y: W, X:B
+Y: M, X:B
+Y: D, X:B
+Y: K, X:B
+0   0   0   0   0   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: TBXI
+, n=5
+Y: T, X:W
+Y: B, X:W
+Y: X, X:W
+Y: I, X:W
+Y: T, X:L
+Y: B, X:L
+Y: X, X:L
+Y: I, X:L
+Y: T, X:R
+Y: B, X:R
+Y: X, X:R
+Y: I, X:R
+Y: T, X:B
+Y: B, X:B
+Y: X, X:B
+Y: I, X:B
+Y: T, X:B
+Y: B, X:B
+Y: X, X:B
+Y: I, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   1   1   
+Cadena: B
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: GMLE
+, n=5
+Y: G, X:W
+Y: M, X:W
+Y: L, X:W
+Y: E, X:W
+Y: G, X:L
+Y: M, X:L
+Y: L, X:L
+Y: E, X:L
+Y: G, X:R
+Y: M, X:R
+Y: L, X:R
+Y: E, X:R
+Y: G, X:B
+Y: M, X:B
+Y: L, X:B
+Y: E, X:B
+Y: G, X:B
+Y: M, X:B
+Y: L, X:B
+Y: E, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   1   1   
+0   0   0   1   1   
+0   0   0   1   1   
+0   0   0   1   1   
+Cadena: L
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: UUKW
+, n=5
+Y: U, X:W
+Y: U, X:W
+Y: K, X:W
+Y: W, X:W
+Y: U, X:L
+Y: U, X:L
+Y: K, X:L
+Y: W, X:L
+Y: U, X:R
+Y: U, X:R
+Y: K, X:R
+Y: W, X:R
+Y: U, X:B
+Y: U, X:B
+Y: K, X:B
+Y: W, X:B
+Y: U, X:B
+Y: U, X:B
+Y: K, X:B
+Y: W, X:B
+0   0   0   0   0   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+Cadena: W
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: IBXUB
+, n=6
+Y: I, X:W
+Y: B, X:W
+Y: X, X:W
+Y: U, X:W
+Y: B, X:W
+Y: I, X:L
+Y: B, X:L
+Y: X, X:L
+Y: U, X:L
+Y: B, X:L
+Y: I, X:R
+Y: B, X:R
+Y: X, X:R
+Y: U, X:R
+Y: B, X:R
+Y: I, X:B
+Y: B, X:B
+Y: X, X:B
+Y: U, X:B
+Y: B, X:B
+Y: I, X:B
+Y: B, X:B
+Y: X, X:B
+Y: U, X:B
+Y: B, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   1   1   1   1   
+0   0   1   1   1   2   
+Cadena: BB
+Yÿ, El nÃºmero de elementos en comÃºn es: 2
+2
+X: WLRBB
+, m=6
+Y: MENME
+, n=6
+Y: M, X:W
+Y: E, X:W
+Y: N, X:W
+Y: M, X:W
+Y: E, X:W
+Y: M, X:L
+Y: E, X:L
+Y: N, X:L
+Y: M, X:L
+Y: E, X:L
+Y: M, X:R
+Y: E, X:R
+Y: N, X:R
+Y: M, X:R
+Y: E, X:R
+Y: M, X:B
+Y: E, X:B
+Y: N, X:B
+Y: M, X:B
+Y: E, X:B
+Y: M, X:B
+Y: E, X:B
+Y: N, X:B
+Y: M, X:B
+Y: E, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: ATDRM
+, n=6
+Y: A, X:W
+Y: T, X:W
+Y: D, X:W
+Y: R, X:W
+Y: M, X:W
+Y: A, X:L
+Y: T, X:L
+Y: D, X:L
+Y: R, X:L
+Y: M, X:L
+Y: A, X:R
+Y: T, X:R
+Y: D, X:R
+Y: R, X:R
+Y: M, X:R
+Y: A, X:B
+Y: T, X:B
+Y: D, X:B
+Y: R, X:B
+Y: M, X:B
+Y: A, X:B
+Y: T, X:B
+Y: D, X:B
+Y: R, X:B
+Y: M, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+0   0   0   0   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: DIAJX
+, n=6
+Y: D, X:W
+Y: I, X:W
+Y: A, X:W
+Y: J, X:W
+Y: X, X:W
+Y: D, X:L
+Y: I, X:L
+Y: A, X:L
+Y: J, X:L
+Y: X, X:L
+Y: D, X:R
+Y: I, X:R
+Y: A, X:R
+Y: J, X:R
+Y: X, X:R
+Y: D, X:B
+Y: I, X:B
+Y: A, X:B
+Y: J, X:B
+Y: X, X:B
+Y: D, X:B
+Y: I, X:B
+Y: A, X:B
+Y: J, X:B
+Y: X, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: OGHIQ
+, n=6
+Y: O, X:W
+Y: G, X:W
+Y: H, X:W
+Y: I, X:W
+Y: Q, X:W
+Y: O, X:L
+Y: G, X:L
+Y: H, X:L
+Y: I, X:L
+Y: Q, X:L
+Y: O, X:R
+Y: G, X:R
+Y: H, X:R
+Y: I, X:R
+Y: Q, X:R
+Y: O, X:B
+Y: G, X:B
+Y: H, X:B
+Y: I, X:B
+Y: Q, X:B
+Y: O, X:B
+Y: G, X:B
+Y: H, X:B
+Y: I, X:B
+Y: Q, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: MZHL
+, n=5
+Y: M, X:W
+Y: Z, X:W
+Y: H, X:W
+Y: L, X:W
+Y: M, X:L
+Y: Z, X:L
+Y: H, X:L
+Y: L, X:L
+Y: M, X:R
+Y: Z, X:R
+Y: H, X:R
+Y: L, X:R
+Y: M, X:B
+Y: Z, X:B
+Y: H, X:B
+Y: L, X:B
+Y: M, X:B
+Y: Z, X:B
+Y: H, X:B
+Y: L, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+0   0   0   0   1   
+Cadena: L
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: IHJO
+, n=5
+Y: I, X:W
+Y: H, X:W
+Y: J, X:W
+Y: O, X:W
+Y: I, X:L
+Y: H, X:L
+Y: J, X:L
+Y: O, X:L
+Y: I, X:R
+Y: H, X:R
+Y: J, X:R
+Y: O, X:R
+Y: I, X:B
+Y: H, X:B
+Y: J, X:B
+Y: O, X:B
+Y: I, X:B
+Y: H, X:B
+Y: J, X:B
+Y: O, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: VSUY
+, n=5
+Y: V, X:W
+Y: S, X:W
+Y: U, X:W
+Y: Y, X:W
+Y: V, X:L
+Y: S, X:L
+Y: U, X:L
+Y: Y, X:L
+Y: V, X:R
+Y: S, X:R
+Y: U, X:R
+Y: Y, X:R
+Y: V, X:B
+Y: S, X:B
+Y: U, X:B
+Y: Y, X:B
+Y: V, X:B
+Y: S, X:B
+Y: U, X:B
+Y: Y, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: YPAY
+, n=5
+Y: Y, X:W
+Y: P, X:W
+Y: A, X:W
+Y: Y, X:W
+Y: Y, X:L
+Y: P, X:L
+Y: A, X:L
+Y: Y, X:L
+Y: Y, X:R
+Y: P, X:R
+Y: A, X:R
+Y: Y, X:R
+Y: Y, X:B
+Y: P, X:B
+Y: A, X:B
+Y: Y, X:B
+Y: Y, X:B
+Y: P, X:B
+Y: A, X:B
+Y: Y, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: LYEI
+, n=5
+Y: L, X:W
+Y: Y, X:W
+Y: E, X:W
+Y: I, X:W
+Y: L, X:L
+Y: Y, X:L
+Y: E, X:L
+Y: I, X:L
+Y: L, X:R
+Y: Y, X:R
+Y: E, X:R
+Y: I, X:R
+Y: L, X:B
+Y: Y, X:B
+Y: E, X:B
+Y: I, X:B
+Y: L, X:B
+Y: Y, X:B
+Y: E, X:B
+Y: I, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+0   1   1   1   1   
+Cadena: L
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: UOTE
+, n=5
+Y: U, X:W
+Y: O, X:W
+Y: T, X:W
+Y: E, X:W
+Y: U, X:L
+Y: O, X:L
+Y: T, X:L
+Y: E, X:L
+Y: U, X:R
+Y: O, X:R
+Y: T, X:R
+Y: E, X:R
+Y: U, X:B
+Y: O, X:B
+Y: T, X:B
+Y: E, X:B
+Y: U, X:B
+Y: O, X:B
+Y: T, X:B
+Y: E, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: ZRIIC
+, n=6
+Y: Z, X:W
+Y: R, X:W
+Y: I, X:W
+Y: I, X:W
+Y: C, X:W
+Y: Z, X:L
+Y: R, X:L
+Y: I, X:L
+Y: I, X:L
+Y: C, X:L
+Y: Z, X:R
+Y: R, X:R
+Y: I, X:R
+Y: I, X:R
+Y: C, X:R
+Y: Z, X:B
+Y: R, X:B
+Y: I, X:B
+Y: I, X:B
+Y: C, X:B
+Y: Z, X:B
+Y: R, X:B
+Y: I, X:B
+Y: I, X:B
+Y: C, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+0   0   1   1   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: SKPG
+, n=5
+Y: S, X:W
+Y: K, X:W
+Y: P, X:W
+Y: G, X:W
+Y: S, X:L
+Y: K, X:L
+Y: P, X:L
+Y: G, X:L
+Y: S, X:R
+Y: K, X:R
+Y: P, X:R
+Y: G, X:R
+Y: S, X:B
+Y: K, X:B
+Y: P, X:B
+Y: G, X:B
+Y: S, X:B
+Y: K, X:B
+Y: P, X:B
+Y: G, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: KBBI
+, n=5
+Y: K, X:W
+Y: B, X:W
+Y: B, X:W
+Y: I, X:W
+Y: K, X:L
+Y: B, X:L
+Y: B, X:L
+Y: I, X:L
+Y: K, X:R
+Y: B, X:R
+Y: B, X:R
+Y: I, X:R
+Y: K, X:B
+Y: B, X:B
+Y: B, X:B
+Y: I, X:B
+Y: K, X:B
+Y: B, X:B
+Y: B, X:B
+Y: I, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   1   1   1   
+0   0   1   2   2   
+Cadena: BB
+Yÿ, El nÃºmero de elementos en comÃºn es: 2
+2
+X: WLRBB
+, m=6
+Y: ZZRZ
+, n=5
+Y: Z, X:W
+Y: Z, X:W
+Y: R, X:W
+Y: Z, X:W
+Y: Z, X:L
+Y: Z, X:L
+Y: R, X:L
+Y: Z, X:L
+Y: Z, X:R
+Y: Z, X:R
+Y: R, X:R
+Y: Z, X:R
+Y: Z, X:B
+Y: Z, X:B
+Y: R, X:B
+Y: Z, X:B
+Y: Z, X:B
+Y: Z, X:B
+Y: R, X:B
+Y: Z, X:B
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   0   0   
+0   0   0   1   1   
+0   0   0   1   1   
+0   0   0   1   1   
+Cadena: R
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: CXAML
+, n=6
+Y: C, X:W
+Y: X, X:W
+Y: A, X:W
+Y: M, X:W
+Y: L, X:W
+Y: C, X:L
+Y: X, X:L
+Y: A, X:L
+Y: M, X:L
+Y: L, X:L
+Y: C, X:R
+Y: X, X:R
+Y: A, X:R
+Y: M, X:R
+Y: L, X:R
+Y: C, X:B
+Y: X, X:B
+Y: A, X:B
+Y: M, X:B
+Y: L, X:B
+Y: C, X:B
+Y: X, X:B
+Y: A, X:B
+Y: M, X:B
+Y: L, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+0   0   0   0   0   1   
+Cadena: L
+üYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+X: WLRBB
+, m=6
+Y: DFYKG
+, n=6
+Y: D, X:W
+Y: F, X:W
+Y: Y, X:W
+Y: K, X:W
+Y: G, X:W
+Y: D, X:L
+Y: F, X:L
+Y: Y, X:L
+Y: K, X:L
+Y: G, X:L
+Y: D, X:R
+Y: F, X:R
+Y: Y, X:R
+Y: K, X:R
+Y: G, X:R
+Y: D, X:B
+Y: F, X:B
+Y: Y, X:B
+Y: K, X:B
+Y: G, X:B
+Y: D, X:B
+Y: F, X:B
+Y: Y, X:B
+Y: K, X:B
+Y: G, X:B
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+0   0   0   0   0   0   
+Cadena: 
+ˆüYÿ, El nÃºmero de elementos en comÃºn es: 0
+0
+X: WLRBB
+, m=6
+Y: UOWZ, n=4
+Y: U, X:W
+Y: O, X:W
+Y: W, X:W
+Y: U, X:L
+Y: O, X:L
+Y: W, X:L
+Y: U, X:R
+Y: O, X:R
+Y: W, X:R
+Y: U, X:B
+Y: O, X:B
+Y: W, X:B
+Y: U, X:B
+Y: O, X:B
+Y: W, X:B
+0   0   0   0   
+0   0   0   1   
+0   0   0   1   
+0   0   0   1   
+0   0   0   1   
+0   0   0   1   
+Cadena: 0WüYÿ, El nÃºmero de elementos en comÃºn es: 1
+1
+(file) 0.001545 segundos 

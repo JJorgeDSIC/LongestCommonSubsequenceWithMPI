@@ -1,0 +1,22 @@
+This script launches different task in the cluster, the command line to call it is the following:
+
+./generador_scripts.sh <MAX_SEQUENCES> <MIN_LENGTH_SEQUENCE> <MAX_LENGTH_SEQUENCE> <MAX_SEQ_PER_PROC> <THREADS>
+
+For example:
+
+./generador_scripts.sh 1000 10 50 10 32
+
+This generates the scripts and launch them with 1 to 6 nodes in the cluster, the content of the script is parametrized as follows:
+
+"#!/bin/sh
+#PBS -l nodes=$i,walltime=00:60:00
+#PBS -q mcpd
+#PBS -d .
+#PBS -o output_'$i'_'$NUMSEQ'_'$MIN'_'$MAX'_'$SEQSPERNODE'_'$THREADS'.txt
+#PBS -e error_'$i'_'$NUMSEQ'_'$MIN'_'$MAX'_'$SEQSPERNODE'_'$THREADS'.txt
+
+cat $PBS_NODEFILE
+OMP_NUM_THREADS=$THREADS mpiexec lcsPar $NUMSEQ $MIN $MAX $SEQSPERNODE"
+
+
+* There are problems when you use just one thread, so it is recommended to use a range of threads between [2-32].
